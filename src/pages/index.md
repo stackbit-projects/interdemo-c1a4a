@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/IMG_2202.jpeg
     image_alt: App preview
     title: Откройте новые возможности
     content: >
