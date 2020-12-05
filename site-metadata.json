@@ -18,7 +18,8 @@
             },
             {
                 "label": "",
-                "url": "/style-guide"
+                "url": "/style-guide",
+                "primary": true
             },
             {
                 "label": "Sign Up",
