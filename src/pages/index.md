@@ -7,8 +7,14 @@ sections:
     image_alt: App preview
     title: Откройте новые возможности роста
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Ежегодно международные организации закупают товары и услуги более чем на
+      90 млрд долларов, а их основными поставщиками являются предприятия малого
+      и среднего бизнеса со всего мира. 
+
+
+      **Вы тоже можете свободно участвовать в этом.
+
+      **
     actions:
       - label: Learn More
         url: /features
