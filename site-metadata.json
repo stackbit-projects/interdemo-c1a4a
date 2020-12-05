@@ -2,7 +2,7 @@
     "palette": "blue",
     "header": {
         "logo_img": "images/Ilo-blue-small.png",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Главная",
