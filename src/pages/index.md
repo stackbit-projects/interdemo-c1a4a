@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/IMG_2202.jpeg
-    image_alt: App preview
+    image_alt: Источник
     title: Откройте новые возможности
     content: >
       Ежегодно международные организации закупают товары и услуги более чем на
