@@ -19,7 +19,8 @@
             {
                 "label": "",
                 "url": "/style-guide",
-                "primary": true
+                "primary": true,
+                "no_follow": true
             },
             {
                 "label": "Sign Up",
