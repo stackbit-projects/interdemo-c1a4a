@@ -28,7 +28,7 @@
                 "primary": true
             },
             {
-                "label": "кнопка",
+                "label": "",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": false,
